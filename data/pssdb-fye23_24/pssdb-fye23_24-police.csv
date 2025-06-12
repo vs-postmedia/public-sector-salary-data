@@ -1038,7 +1038,6 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Constable,82292,1839,Surrey Police (SPS),Municipal police
 "NA, NA",Constable,82106,1967,Surrey Police (SPS),Municipal police
 "NA, NA",Constable,82567,1452,Surrey Police (SPS),Municipal police
-"NA, NA",Constable,72376,11242,Surrey Police (SPS),Municipal police
 "NA, NA",Inspector,213476,17533,Surrey Police (SPS),Municipal police
 "NA, NA",Inspector,176745,4027,Surrey Police (SPS),Municipal police
 "NA, NA",Constable,80905,2658,Surrey Police (SPS),Municipal police
@@ -1050,13 +1049,9 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Constable,78273,3648,Surrey Police (SPS),Municipal police
 "NA, NA",Sergeant,80855,600,Surrey Police (SPS),Municipal police
 "NA, NA",Constable,76782,2703,Surrey Police (SPS),Municipal police
-"NA, NA",Constable,68621,10678,Surrey Police (SPS),Municipal police
 "NA, NA",Constable,120352,60189,Surrey Police (SPS),Municipal police
 "NA, NA",Clerk 4,75271,3550,Surrey Police (SPS),Municipal police
-"NA, NA",Constable,70904,7917,Surrey Police (SPS),Municipal police
 "NA, NA",Constable,77246,0,Surrey Police (SPS),Municipal police
-"NA, NA",Constable,70026,6893,Surrey Police (SPS),Municipal police
-"NA, NA",Constable,71868,3366,Surrey Police (SPS),Municipal police
 "NA, NA",Inspector,167670,11498,Surrey Police (SPS),Municipal police
 "NA, NA",Sergeant,141825,36878,Surrey Police (SPS),Municipal police
 "NA, NA",Staff Sergeant,160590,17507,Surrey Police (SPS),Municipal police
@@ -1169,13 +1164,13 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Corporal,173240,148,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,195379,359,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,81155,20,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,156385,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,156385,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,92554,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,96733,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,115534,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,152412,4061,Transit Police,Municipal police
 "NA, NA",Des Constable 1st Class Dh,144091,2912,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,159874,2166,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,159874,2166,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,118283,0,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,115522,43,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,104842,0,Transit Police,Municipal police
@@ -1185,24 +1180,24 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Designated Constable 1st Class,151683,2217,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,126313,1498,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,120742,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,166962,43,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,165274,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,166962,43,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,165274,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,113163,1368,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,132621,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,130092,3695,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,146960,1369,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,146960,1369,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,116862,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,159912,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,159912,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,124759,70,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,108192,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,86457,22110,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,135967,1000,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,148625,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,165973,742,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,135967,1000,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,148625,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,165973,742,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,132764,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,126030,1385,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,86623,170,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,149590,65,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,149590,65,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,105813,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 2nd Class,98885,170,Transit Police,Municipal police
 "NA, NA",Designated Constable 3rd Class,123160,2432,Transit Police,Municipal police
@@ -1212,7 +1207,7 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Designated Constable 4th Class,91389,0,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,125239,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,91456,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,147384,2182,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,147384,2182,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,123536,742,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,118241,0,Transit Police,Municipal police
 "NA, NA",Des Constable 1st Class Dh,122553,3845,Transit Police,Municipal police
@@ -1223,9 +1218,9 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Designated Constable 3rd Class,110159,200,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,118027,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 3rd Class,121935,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,142269,50,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,142269,50,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,101820,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,136983,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,136983,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,90578,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,123465,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,104176,0,Transit Police,Municipal police
@@ -1234,22 +1229,22 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Designated Constable 1st Class,96206,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 3rd Class,103461,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,129642,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,86436,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,86436,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 3rd Class,96391,200,Transit Police,Municipal police
 "NA, NA",Des Constable 1st Class Dh,101374,6767,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,130388,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,101710,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,96107,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,96107,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,113376,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,159801,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,159801,0,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,177528,89,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,152774,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,152774,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,130734,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,97217,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,139288,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,155809,1950,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,114496,20,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,126019,89,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,126019,89,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,123977,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 3rd Class,127269,15,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,116353,50,Transit Police,Municipal police
@@ -1264,10 +1259,10 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Designated Constable 1st Class,116784,2014,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,134503,1816,Transit Police,Municipal police
 "NA, NA",Designated Constable 3rd Class,84830,70,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,86067,0,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Iii,150069,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,86067,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level IIi,150069,0,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,123058,20,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,92360,843,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,92360,843,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,138105,2843,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,112759,0,Transit Police,Municipal police
 "NA, NA",Designated Constable 4th Class,108859,0,Transit Police,Municipal police
@@ -1281,8 +1276,8 @@ Name,position,remuneration,expenses,agency,sector
 "NA, NA",Designated Constable 1st Class,123953,1100,Transit Police,Municipal police
 "NA, NA",Designated Constable 1st Class,127553,3635,Transit Police,Municipal police
 "NA, NA",Designated Constable Level I,119946,901,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,126835,582,Transit Police,Municipal police
-"NA, NA",Designated Constable Level Ii,120347,0,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,126835,582,Transit Police,Municipal police
+"NA, NA",Designated Constable Level II,120347,0,Transit Police,Municipal police
 "NA, NA",Sergeant Level 1,140029,858,Transit Police,Municipal police
 "NA, NA",Sergeant Level 3,188325,1665,Transit Police,Municipal police
 "NA, NA",Sergeant Level 2,141599,910,Transit Police,Municipal police
@@ -1417,10 +1412,10 @@ Name,position,remuneration,expenses,agency,sector
 "Visintin, T",Police Constable,194844,572,Vancouver Police,Municipal police
 "Villamin, R",Senior Crime Analyst,109803,880,Vancouver Police,Municipal police
 "Veronesi, M",Inspector,220983,750,Vancouver Police,Municipal police
-"Vawter, K",Forensic Video Analyst Ii,106799,2626,Vancouver Police,Municipal police
+"Vawter, K",Forensic Video Analyst II,106799,2626,Vancouver Police,Municipal police
 "Van Den Brun, D",Investigational Assistant (T),96034,229,Vancouver Police,Municipal police
 "Tse, H",Property Custodian,75134,554,Vancouver Police,Municipal police
-"Tran, L",Hr Consultant Ii,100640,3963,Vancouver Police,Municipal police
+"Tran, L",Hr Consultant II,100640,3963,Vancouver Police,Municipal police
 "Tran, T",Inspector,200923,96,Vancouver Police,Municipal police
 "Tran, H",Superintendent,230417,38803,Vancouver Police,Municipal police
 "Tough, N",Training & Recruiting Coordinator,102304,880,Vancouver Police,Municipal police
@@ -1428,18 +1423,18 @@ Name,position,remuneration,expenses,agency,sector
 "Tizya, C",Forensic Video Analyst,81619,4791,Vancouver Police,Municipal police
 "Thoring, K",Investigational Assistant,76637,0,Vancouver Police,Municipal police
 "Thomas, T",Inspector (Sec.),198248,0,Vancouver Police,Municipal police
-"Thapa, A",User Support Specialist Ii,75644,1885,Vancouver Police,Municipal police
+"Thapa, A",User Support Specialist II,75644,1885,Vancouver Police,Municipal police
 "Tempesta, L",Executive Assistant,85086,800,Vancouver Police,Municipal police
 "Teixeira, N",Audit Manager,127894,2305,Vancouver Police,Municipal police
-"Tecson, A",Hr Consultant Ii,94170,5338,Vancouver Police,Municipal police
+"Tecson, A",Hr Consultant II,94170,5338,Vancouver Police,Municipal police
 "Teano, M",Prime Trainer,77028,0,Vancouver Police,Municipal police
 "Tarnowski, J",Senior Technical Specialist,127352,263,Vancouver Police,Municipal police
 "Tang, A",Investigational Assistant (T),83009,0,Vancouver Police,Municipal police
 "Szymczak, A",Executive Assistant,82093,3224,Vancouver Police,Municipal police
 "SZKOPEK-SZKOPOWSKI, T",Strategic Research & Policy Advisor,115317,1413,Vancouver Police,Municipal police
 "Steenvoorden, K",Clerk V,77517,150,Vancouver Police,Municipal police
-"Sommerville, M",Hr Consultant Ii,100040,6103,Vancouver Police,Municipal police
-"Smith, R",Payroll Clerk Iii,90118,0,Vancouver Police,Municipal police
+"Sommerville, M",Hr Consultant II,100040,6103,Vancouver Police,Municipal police
+"Smith, R",Payroll Clerk IIi,90118,0,Vancouver Police,Municipal police
 "Smith, L",Project Leader,90657,0,Vancouver Police,Municipal police
 "Smitas, C",Planning & Policy Analyst,99678,0,Vancouver Police,Municipal police
 "Sinkewicz, C",Forensic Video Analyst I,103774,1402,Vancouver Police,Municipal police
@@ -1447,7 +1442,7 @@ Name,position,remuneration,expenses,agency,sector
 "Sin, A",Clerk V,85137,0,Vancouver Police,Municipal police
 "Sideroff, T",Superintendent,226511,26704,Vancouver Police,Municipal police
 "Shum, M",Senior Crime Analyst,138783,4869,Vancouver Police,Municipal police
-"Shortis, P",User Support Specialist Ii,80754,0,Vancouver Police,Municipal police
+"Shortis, P",User Support Specialist II,80754,0,Vancouver Police,Municipal police
 "Sekhon, J",Clerk V,77309,0,Vancouver Police,Municipal police
 "Sangha, A",Business Applications Specialist,77902,0,Vancouver Police,Municipal police
 "Sandhu, J",Videographer,77694,0,Vancouver Police,Municipal police
@@ -1457,7 +1452,7 @@ Name,position,remuneration,expenses,agency,sector
 "Ruschke, D",Mobile Applications Specialist (T),80949,0,Vancouver Police,Municipal police
 "Rowe, M",Inspector,195299,8115,Vancouver Police,Municipal police
 "Rose, C",Senior Crime Analyst,90726,169,Vancouver Police,Municipal police
-"Riumina, O",Systems Analyst Iii,131327,7738,Vancouver Police,Municipal police
+"Riumina, O",Systems Analyst IIi,131327,7738,Vancouver Police,Municipal police
 "Ritchie, M",Inspector,200740,8075,Vancouver Police,Municipal police
 "Risebrough, K",Inspector,185193,6301,Vancouver Police,Municipal police
 "Rintoul, C",Crime Analyst (T),105513,4137,Vancouver Police,Municipal police
@@ -1465,16 +1460,16 @@ Name,position,remuneration,expenses,agency,sector
 "Reddy, A",Investigational Assistant,75919,169,Vancouver Police,Municipal police
 "Rai, S",Deputy Chief Constable,354582,29473,Vancouver Police,Municipal police
 "Pipher, G",Senior Crime Analyst,99661,0,Vancouver Police,Municipal police
-"Pederson, E",Forensic Firearm & Toolmark Examiner Ii,168210,3911,Vancouver Police,Municipal police
+"Pederson, E",Forensic Firearm & Toolmark Examiner II,168210,3911,Vancouver Police,Municipal police
 "Parmar, P",Fleet Manager,121018,4147,Vancouver Police,Municipal police
 "Palmer, A",Chief Constable,464207,58867,Vancouver Police,Municipal police
 "Nordholm, T",Clerk V,79444,0,Vancouver Police,Municipal police
 "Noel, K",Forensic Video Analyst I,100724,4401,Vancouver Police,Municipal police
 "Nham, J",Youth&Mental Health Systems Coordinator,99699,0,Vancouver Police,Municipal police
-"Ng, J",Systems Analyst Iii,116264,2410,Vancouver Police,Municipal police
+"Ng, J",Systems Analyst IIi,116264,2410,Vancouver Police,Municipal police
 "Ng, W",Facilities Services Manager,158909,0,Vancouver Police,Municipal police
 "Neuman, J",Inspector,199011,13538,Vancouver Police,Municipal police
-"Nashlenas, N",Hr Consultant Ii,80358,4390,Vancouver Police,Municipal police
+"Nashlenas, N",Hr Consultant II,80358,4390,Vancouver Police,Municipal police
 "Naismith, C",Investigational Assistant,84487,35,Vancouver Police,Municipal police
 "Muir, S",Inspector (Sec.),233705,0,Vancouver Police,Municipal police
 "Mounce, J",Systems Application Specialist,86623,2870,Vancouver Police,Municipal police
@@ -1482,7 +1477,7 @@ Name,position,remuneration,expenses,agency,sector
 "Morais, K",Manager - Ims,128131,0,Vancouver Police,Municipal police
 "Moore, S",Forensic Firearm & Toolmark Examiner I,127454,4810,Vancouver Police,Municipal police
 "Mohammed, Z",Training & Recruiting Coordinator,89198,2658,Vancouver Police,Municipal police
-"Mohamed, A",Systems Analyst Iii (T),133652,0,Vancouver Police,Municipal police
+"Mohamed, A",Systems Analyst IIi (T),133652,0,Vancouver Police,Municipal police
 "Meiklejohn, C",Crime Data Analyst,86245,3268,Vancouver Police,Municipal police
 "Meads, M",Pss Project Coordinator,86327,0,Vancouver Police,Municipal police
 "Mcrae, A",Fitness Coordinator,79075,234,Vancouver Police,Municipal police
@@ -1498,7 +1493,7 @@ Name,position,remuneration,expenses,agency,sector
 "Li, S",Executive Assistant,80977,800,Vancouver Police,Municipal police
 "Li, C",Planning & Policy Analyst,87708,0,Vancouver Police,Municipal police
 "Li, A",Senior Crime Analyst,100562,169,Vancouver Police,Municipal police
-"Lesicka, A",Systems Analyst Iii,123761,846,Vancouver Police,Municipal police
+"Lesicka, A",Systems Analyst IIi,123761,846,Vancouver Police,Municipal police
 "Lepard, H",Pss Project Coordinator,76756,1822,Vancouver Police,Municipal police
 "Leng, P",Prime Trainer,76261,4005,Vancouver Police,Municipal police
 "Lemire, N",Technical Specialist,146004,0,Vancouver Police,Municipal police
@@ -1522,14 +1517,14 @@ Name,position,remuneration,expenses,agency,sector
 "Keyes, J",Superintendent (Wse) (Sec.),210576,1791,Vancouver Police,Municipal police
 "Kenney, J",Inspector,192140,9205,Vancouver Police,Municipal police
 "Kennedy, L",Communications Specialist,135912,766,Vancouver Police,Municipal police
-"Karimi, F",User Support Specialist Ii,90414,0,Vancouver Police,Municipal police
+"Karimi, F",User Support Specialist II,90414,0,Vancouver Police,Municipal police
 "Kajander, O",Clerk Iv,95510,2579,Vancouver Police,Municipal police
 "Johnson, D",Forensic Video Analyst I,89876,0,Vancouver Police,Municipal police
 "Jeangrand, C",Labour Relations Coordinator,89756,13093,Vancouver Police,Municipal police
 "Jarvis, B",Tss,76499,0,Vancouver Police,Municipal police
 "Jang, K",Manager-Budgets & Reporting Unit (T),155738,0,Vancouver Police,Municipal police
 "Hurwitz, D",Legal Counsel -Access & Privacy,211510,2726,Vancouver Police,Municipal police
-"Hundle, P",User Support Specialist Ii,83821,0,Vancouver Police,Municipal police
+"Hundle, P",User Support Specialist II,83821,0,Vancouver Police,Municipal police
 "Hull, J",Property & Forensic Storage Manager,111203,0,Vancouver Police,Municipal police
 "Hsu, Y",Payroll Supervisor,139653,4751,Vancouver Police,Municipal police
 "Hsieh, S",Prime System Liaison Specialist,85786,4015,Vancouver Police,Municipal police
@@ -1579,11 +1574,11 @@ Name,position,remuneration,expenses,agency,sector
 "Da Silva, B",Scs Receiver,77754,0,Vancouver Police,Municipal police
 "D'SOUZA, C",Fingerprint Coordinator,81092,50,Vancouver Police,Municipal police
 "Collins, K",Manager-Emergency Planning,178883,9372,Vancouver Police,Municipal police
-"Collinge, K",Hr Consultant Ii,100460,3963,Vancouver Police,Municipal police
+"Collinge, K",Hr Consultant II,100460,3963,Vancouver Police,Municipal police
 "Chung, S",Coordinator - Victim Services Unit (Moj),79524,1855,Vancouver Police,Municipal police
 "Chung, P",Accountant,84385,1206,Vancouver Police,Municipal police
 "Christensen, S",Strategic Research & Policy Advisor,108266,1413,Vancouver Police,Municipal police
-"Chow, S",User Support Specialist Ii,85881,0,Vancouver Police,Municipal police
+"Chow, S",User Support Specialist II,85881,0,Vancouver Police,Municipal police
 "Chow, H",Deputy Chief Constable,351805,36965,Vancouver Police,Municipal police
 "Choi, K",Crown Liaison Clerk,81638,7832,Vancouver Police,Municipal police
 "Choi, Y",Crime Analyst (T),110567,7311,Vancouver Police,Municipal police
@@ -1591,20 +1586,20 @@ Name,position,remuneration,expenses,agency,sector
 "Cheung, J","Manager, Data & Development Services",151440,9210,Vancouver Police,Municipal police
 "Chau, C",Web Technician,77550,0,Vancouver Police,Municipal police
 "Chapman, D",Superintendent,227246,23620,Vancouver Police,Municipal police
-"Chan, P",Hr Consultant Ii,93037,3033,Vancouver Police,Municipal police
+"Chan, P",Hr Consultant II,93037,3033,Vancouver Police,Municipal police
 "Chan, A",Superintendent,233671,29892,Vancouver Police,Municipal police
 "Caunt, R",Forensic Firearm & Toolmark Examiner I,139643,7305,Vancouver Police,Municipal police
 "Carter, K",Executive Assistant,81972,0,Vancouver Police,Municipal police
 "CARREIRA-SIMON, P",Health & Safety Coordinator,105185,2424,Vancouver Police,Municipal police
 "Calabrese, L",Investigational Assistant,75967,204,Vancouver Police,Municipal police
 "Byrne, L",Superintendent,225354,37950,Vancouver Police,Municipal police
-"Burns, A",Financial Analyst Ii (T),133028,0,Vancouver Police,Municipal police
+"Burns, A",Financial Analyst II (T),133028,0,Vancouver Police,Municipal police
 "Burnham, S",Inspector,178539,1990,Vancouver Police,Municipal police
 "Burnham, C",Inspector (Wse),188937,4260,Vancouver Police,Municipal police
 "Burmachuk, T",Superintendent (Wse),243875,9655,Vancouver Police,Municipal police
 "Bueckert, C",Ims Administrative Coordinator,81670,0,Vancouver Police,Municipal police
 "Browne, C",Senior Crime Analyst,99699,3151,Vancouver Police,Municipal police
-"Brown, C",Payroll Clerk Iii,88899,89,Vancouver Police,Municipal police
+"Brown, C",Payroll Clerk IIi,88899,89,Vancouver Police,Municipal police
 "Brown, B",Investigational Assistant,104809,169,Vancouver Police,Municipal police
 "Braverman, E",Prime Trainer,80414,0,Vancouver Police,Municipal police
 "Braniff, L",Manager - Capssu,147878,14475,Vancouver Police,Municipal police
@@ -1616,13 +1611,13 @@ Name,position,remuneration,expenses,agency,sector
 "Benefield, A",Inspector,191045,150,Vancouver Police,Municipal police
 "Bellia, E",Inspector,200759,11228,Vancouver Police,Municipal police
 "Bell, R",Inspector,216653,5888,Vancouver Police,Municipal police
-"Bakker, J",User Support Specialist Ii,79291,0,Vancouver Police,Municipal police
+"Bakker, J",User Support Specialist II,79291,0,Vancouver Police,Municipal police
 "Baker, S",Manager - Victim Services Unit,98442,1447,Vancouver Police,Municipal police
 "Authier, S",Legal Trainer I,129610,4028,Vancouver Police,Municipal police
 "August, G",Hr Senior Business Analyst,150206,0,Vancouver Police,Municipal police
 "Athans, K",Inspector,199501,1048,Vancouver Police,Municipal police
 "Anderson, S",Inventory Planner/Buyer,76803,2024,Vancouver Police,Municipal police
-"Alexander, T",Systems Analyst Iii,131327,3650,Vancouver Police,Municipal police
+"Alexander, T",Systems Analyst IIi,131327,3650,Vancouver Police,Municipal police
 "Aitken, S",Inspector (Wse),167955,1529,Vancouver Police,Municipal police
 "Addison, S",Sergeant,213137,4629,Vancouver Police,Municipal police
 "NA, NA",Police Constable,75167,60,Vancouver Police,Municipal police
